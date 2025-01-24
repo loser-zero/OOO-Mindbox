@@ -1,3 +1,7 @@
+ToDo App для OOO-Mindbox. Функционал: Добавить заметку, Пометить выполненной и обратно, Просмотреть все заметки / выполненные / невыполненные
+![image](https://github.com/user-attachments/assets/8b8b50c8-fa7f-4cf5-8ac0-8864dad0da47)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
